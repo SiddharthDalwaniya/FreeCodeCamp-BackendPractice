@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"version":"1.0.0",
 	"author":"SiddharthDalwaniya",
+	"description":"This is my first project to learn the backend.",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
